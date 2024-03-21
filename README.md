@@ -23,7 +23,7 @@
 
 **Extraction and Formulation of Perfume**
 - The main objective of this research is to extract essential oil from lemon grass (Cymbopogon citrasus) using solvent extraction, enfleurage, and hydro distillation and formulating the perfume and then comparing these methods to find the most effective extraction method based on percentage yield.
-- [Publication] (
+- [Publication] (https://github.com/m7h7r/mihirpatil.portfolio/blob/main/Past%20Projects/INTRODUCTION-WPS%20Office%5B1%5D.pdf)
 
 **Preparation of Charcoal using Agricultural Waste**
 -
